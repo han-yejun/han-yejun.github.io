@@ -29,3 +29,4 @@ tags: [paper, study, research, thesis] # add tag
 ![](../assets/img/report-4-4.png)
 ![](../assets/img/report-4-5.png)
 ![](../assets/img/report-5.png)
+![](../assets/img/papers.png)
