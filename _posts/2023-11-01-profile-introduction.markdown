@@ -19,7 +19,8 @@ I am always enjoying life, learning something and adventure of new world and tec
 
 ### Skill and Technology
 * DataBase: Oracle(basic), MySQL(middle).
-* Operating System: Window(Excellent), iOS(Good).
+* Operating System: Window(excellent), iOS(good).
 * Programming Language: Python(basic), JAVA(basic).
-* Analysis Tool: R(middle).
-* Foreign Language: English(Excellent), Chinese(middle).
+* Analysis Tool: R(middle), Excell(middle)
+* Word SW: Powerpoint(excellent), word(middle), hwp(middle)
+* Foreign Language: English(excellent), Chinese(middle).
