@@ -19,6 +19,10 @@ tags: [paper, study, research, thesis] # add tag
 - Keyword : Household economy, income analysis, consumption analysis, debt analysis, regression analysis
 
 ![](../assets/img/report-1.png)
+![](../assets/img/report-2.png)
+![](../assets/img/report-3-1.png)
+![](../assets/img/report-3-2.png)
+![](../assets/img/report-3-3.png)
 ![](../assets/img/report-4-1.png)
 ![](../assets/img/report-4-2.png)
 ![](../assets/img/report-4-3.png)
