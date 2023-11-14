@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysis of Household's Economy
+title: Analysis of LOL's win/loss
 updated: 2023-11-01 11:00:00 +0300 #표시날짜
 date: 2023-11-01 11:00:00 +0300 #정렬순서
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
